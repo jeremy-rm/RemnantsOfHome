@@ -1,0 +1,13 @@
+## Title: |c4B8BFERemnants of Home|r
+## Author: jeremy.rm
+## Description: Use /roh to teleport to the Remnants of Hope Guild Hall.
+## Version: 1.1.0
+## AddOnVersion: 110
+## APIVersion: 100035
+## IsLibrary: false
+
+# CHANGELOG:
+# -- 2021-05-20: Initial public release.
+# -- 2021-06-01: Incremented API version for Blackwood.
+
+RemnantsOfHome.lua
